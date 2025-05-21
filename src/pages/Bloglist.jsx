@@ -9,7 +9,7 @@ export default function BlogList() {
   const [error, setError]     = useState(null);
 
   useEffect(() => {
-    fetch('http://localhost:5000/blogs', {
+    fetch('https://novacrest-backend.vercel.app/blogs', {
       headers: { Authorization: 'Bearer ' + localStorage.getItem('token') }
     })
       .then(res => {

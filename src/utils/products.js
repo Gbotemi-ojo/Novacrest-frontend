@@ -1,229 +1,143 @@
-import productImg01 from "../Images/double-sofa-01.png";
-import productImg02 from "../Images/double-sofa-02.png";
-import productImg03 from "../Images/double-sofa-03.png";
-
-import productImg04 from "../Images/single-sofa-01.jpg";
-import productImg05 from "../Images/single-sofa-02.jpg";
-import productImg06 from "../Images/single-sofa-03.jpg";
-import productImg007 from "../Images/single-sofa-04.png";
-
-import productImg07 from "../Images/arm-chair-01.jpg";
-import productImg08 from "../Images/arm-chair-02.jpg";
-import productImg09 from "../Images/arm-chair-03.jpg";
-import productImg10 from "../Images/arm-chair-01.jpg";
-
-import phone01 from "../Images/phone-01.jpg";
-import phone02 from "../Images/phone-02.jpg";
-import phone03 from "../Images/phone-03.png";
-import phone04 from "../Images/phone-04.jpg";
-import phone05 from "../Images/phone-05.jpg";
-import phone06 from "../Images/phone-06.jpg";
-import phone08 from "../Images/phone-08.png";
-
-import watch01 from "../Images/watch-01.jpg";
-import watch02 from "../Images/watch-02.jpg";
-import watch03 from "../Images/watch-03.jpg";
-import watch04 from "../Images/watch-04.jpg";
-
-import wireless01 from "../Images/wireless-01.png";
-import wireless02 from "../Images/wireless-02.png";
-import wireless03 from "../Images/wireless-03.png";
-import wireless04 from "../Images/wireless-04.png";
-
-import sofaSlide from "../Images/hero-img.png";
-import watchSlide from "../Images/watch-07.png";
+import novacrestImg1 from "../Images/novacrest-pic-2.jpg";
+import novacrestImg2 from "../Images/novacrest-pic-3.jpg";
+import novacrestImg3 from "../Images/novacrest-pic-1.jpg";
+import novacrestImg4 from "../Images/novacrest-pic-4.jpg";
 import { newproducts } from "./products_with_descriptions";
 
 export const SliderData = [
   {
-      id: 1,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: sofaSlide,
+    id: 1,
+    title: "Your One-Stop Pharmacy & Wellness Store",
+    desc: "From trusted medications to everyday beverages, shop everything you need for your health and lifestyle at Novacrest Pharmacy.",
+    cover: novacrestImg1,
   },
   {
-      id: 2,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: phone08,
+    id: 2,
+    title: "Quality Medicines, Always Available",
+    desc: "We stock a wide range of prescription drugs, supplements, and over-the-counter treatments — all at competitive prices.",
+    cover: novacrestImg2,
   },
   {
-      id: 3,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: wireless01,
+    id: 3,
+    title: "Stay Refreshed, Stay Healthy",
+    desc: "Explore our selection of healthy drinks, supplements, and energy boosters designed to keep you feeling your best.",
+    cover: novacrestImg3,
   },
   {
-      id: 4,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: watchSlide,
+    id: 4,
+    title: "Everyday Essentials, All in One Place",
+    desc: "Shop a unique blend of pharmaceuticals and lifestyle products — from wellness drinks to skin care — only at Novacrest.",
+    cover: novacrestImg4,
   },
 ];
 
+
 export const serviceData = [
   {
-    icon: <ion-icon name="car"></ion-icon>,
-    title: "Free Shipping",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    icon: <ion-icon name="medkit-outline"></ion-icon>,
+    title: "Professional Care",
+    subtitle: "At novacrest ,Our licensed pharmacists provide expert guidance and ensure safe dispensing of medications.",
     bg: "#fdefe6",
   },
   {
-    icon: <ion-icon name="card"></ion-icon>,
-    title: "Safe Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    icon: <ion-icon name="ribbon-outline"></ion-icon>,
+    title: "Quality Assurance",
+    subtitle: "We guarantee original and high-quality products from reputable manufacturers only.",
     bg: "#ceebe9",
   },
   {
-    icon: <ion-icon name="shield-half-outline"></ion-icon>,
-    title: "Secure Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    icon: <ion-icon name="shield-checkmark-outline"></ion-icon>,
+    title: "Trusted & Reliable",
+    subtitle: "Years of trusted service backed by strong customer loyalty and community support.",
     bg: "#e2f2b2",
   },
   {
-    icon: <ion-icon name="headset"></ion-icon>,
-    title: " Back Guarantee",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    icon: <ion-icon name="people-outline"></ion-icon>,
+    title: "Customer-Centric Service",
+    subtitle: "Friendly support and personalized attention to your health and wellness needs.",
     bg: "#d6e5fb",
   },
 ];
 
 export const discoutProducts = [
   {
-    id: "01",
-    productName: "Stone and Beam Westview ",
-    imgUrl: productImg01,
-    category: "sofa",
-    price: 193,
-    discount:30,
-    shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    id: "3578",
+    productName: "VITABIOTICS PREGNACARE ORIGINAL",
+    imgUrl: "https://healthplusnigeria.com/cdn/shop/files/Pregnacare_20Original_20Tablets_20x_2030_1aa9ce2b-4d65-4f67-b14a-41fd90f5381b.webp?v=1744728217",
+    category: "supplements",
+    price: 7000,
+    shortDesc: "VITAMINS, MINERALS, FOLIC ACID, D3,B12, MODERATE IRON & ZINC",
+    description: "VITAMINS, MINERALS, FOLIC ACID, D3,B12, MODERATE IRON & ZINC",
     reviews: [
-      {
-        rating: 4.7,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
+      { rating: 4.5, text: "This is a high-quality product that meets expectations." }
     ],
-    avgRating: 4.5,
+    avgRating: 4.5
   },
   {
-    id: "02",
-    productName: "Rivet Bigelow Modern ",
-    imgUrl: productImg02,
-    category: "sofa",
-    price: 253,
-    discount:20,
-    shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    id: "3641",
+    productName: "WELLWOMAN 50+",
+    imgUrl: "https://www.vitabiotics.com/cdn/shop/products/wellwoman_50_front_CTWEW030T5WL1ER.png?crop=center&height=1024&v=1681393227&width=1024",
+    category: "supplements",
+    price: 17500,
+    shortDesc: "WELLWOMAN 50+",
+    description: "WELLWOMAN 50+",
     reviews: [
-      {
-        rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-      {
-        rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
+      { rating: 4.5, text: "This is a high-quality product that meets expectations." }
     ],
-    avgRating: 4.7,
+    avgRating: 4.5
   },
   {
-    id: "08",
-    productName: "Baltsar Chair",
-    imgUrl: productImg08,
-    category: "chair",
-    price: 89,
-    discount:15,
-    shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    id: "3570",
+    productName: "VISIONACE ORIGINAL",
+    imgUrl: "https://cdn.shopify.com/s/files/1/0027/7263/1621/files/visionace_original_front_CTVIS030T2WL2ER_resized.png?v=1711475818",
+    category: "eye antioxidants",
+    price: 15400,
+    shortDesc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident!",
     reviews: [
-      {
-        rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-      {
-        rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
+      { rating: 4.5, text: "This is a high-quality product that meets expectations." }
     ],
-    avgRating: 4.7,
+    avgRating: 4.5
   },
-  {
-    id: "09",
-    productName: "Helmar Chair",
-    imgUrl: productImg09,
-    category: "chair",
-    price: 112,
-    discount:35,
-    shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-    reviews: [
+    {
+      id: "0581",
+      productName: "CENTRUM SILVER ADULTS 50+ *125",
+      imgUrl: "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-wellness-centrum/en_US/sliced-images/global/products/NewLook-Centrum-Silver-Women-50plus.jpg?auto=format",
+      category: "supplements",
+      price: 24500,
+      shortDesc: "CENTRUM SILVER ADULTS 50+ *125",
+      description: "CENTRUM SILVER ADULTS 50+ *125",
+      reviews: [
+        { rating: 4.5, text: "This is a high-quality product that meets expectations." }
+      ],
+      avgRating: 4.5
+    },
       {
-        rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        id: "1716",
+        productName: "IMMUN-ACTIV VITAMIN C *100",
+        imgUrl: "https://www.oaklifevitamins.com/cdn/shop/products/immun-activ.VitC.front_900x.png?v=1684761282",
+        category: "drugs",
+        price: 21000,
+        shortDesc: "IMMUN-ACTIV VITAMIN C *100",
+        description: "IMMUN-ACTIV VITAMIN C *100",
+        reviews: [
+          { rating: 4.5, text: "This is a high-quality product that meets expectations." }
+        ],
+        avgRating: 4.5
       },
-      {
-        rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-    ],
-    avgRating: 4.7,
-  },
-  {
-    id: "12",
-    productName: "Realme 8",
-    imgUrl: phone03,
-    category: "mobile",
-    price: 599,
-    discount:10,
-    shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-    reviews: [
-      {
-        rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-      {
-        rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-    ],
-    avgRating: 4.8,
-  },
-  {
-    id: "13",
-    productName: "One Plus Nord",
-    imgUrl: phone04,
-    category: "mobile",
-    price: 799,
-    discount:5,
-    shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
-    reviews: [
-      {
-        rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-      {
-        rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      },
-    ],
-    avgRating: 4.8,
-  },
-
+        {
+          id: "2882",
+          productName: "PURITAN'S PRIDE BIOTIN",
+          imgUrl: "https://megacare.ng/media/image/2_Jpp2cfn.png",
+          category: "supplements",
+          price: 6300,
+          shortDesc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+          description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident!",
+          reviews: [
+            { rating: 4.5, text: "This is a high-quality product that meets expectations." }
+          ],
+          avgRating: 4.5
+        },
 ]
 
 export const products = newproducts;

@@ -9,12 +9,14 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 // Lazy-loaded pages
-const Home       = lazy(() => import("./pages/Home"));
-const Shop       = lazy(() => import("./pages/Shop"));
-const Cart       = lazy(() => import("./pages/Cart"));
-const Product    = lazy(() => import("./pages/Product"));
-const BlogList   = lazy(() => import("./pages/Bloglist"));
+const Home = lazy(() => import("./pages/Home"));
+const Shop = lazy(() => import("./pages/Shop"));
+const Cart = lazy(() => import("./pages/Cart"));
+const Product = lazy(() => import("./pages/Product"));
+const BlogList = lazy(() => import("./pages/Bloglist"));
 const BlogDetail = lazy(() => import("./pages/Blogdetail"));
+const Privacy = lazy(() => import("./pages/privacy"));
+const Terms = lazy(() => import("./pages/terms"));
 
 function App() {
   return (
@@ -34,22 +36,28 @@ function App() {
 
         <NavBar />
 
-        <Routes>
-          {/* Home */}
-          <Route path="/" element={<Home />} />
+        {/* --- START OF CHANGES --- */}
+        {/* This div will create the necessary space below the fixed navbar */}
+        <div className="main-content-offset">
+          <Routes>
+            {/* Home */}
+            <Route path="/" element={<Home />} />
 
-          {/* Shop */}
-          <Route path="/shop" element={<Shop />} />
-          <Route path="/shop/:id" element={<Product />} />
-          <Route path="/cart" element={<Cart />} />
+            {/* Shop */}
+            <Route path="/shop" element={<Shop />} />
+            <Route path="/shop/:id" element={<Product />} />
+            <Route path="/cart" element={<Cart />} />
 
-          {/* Blog list and detail */}
-          <Route path="/bloglist" element={<BlogList />} />
-          <Route path="/blogdetail/:id" element={<BlogDetail />} />
-
-          {/* (Optional) add a 404 page by uncommenting & creating NotFound */}
-          {/* <Route path="*" element={<NotFound />} /> */}
-        </Routes>
+            {/* Blog list and detail */}
+            <Route path="/privacy" element={<Privacy />} />
+            <Route path="/blogdetail/:id" element={<BlogDetail />} />
+            <Route path="/bloglist" element={<BlogList />} />
+            <Route path="/terms" element={<Terms />} />
+            {/* (Optional) add a 404 page by uncommenting & creating NotFound */}
+            {/* <Route path="*" element={<NotFound />} /> */}
+          </Routes>
+        </div>
+        {/* --- END OF CHANGES --- */}
 
         <Footer />
       </Router>

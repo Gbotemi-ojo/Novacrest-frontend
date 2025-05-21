@@ -4,7 +4,7 @@ export const newproducts = [
   {
     id: "0002",
     productName: "1 MILLION SPRAY",
-    imgUrl: default_image,
+    imgUrl: "https://fragrances.com.ng/media/catalog/product/cache/4cf9e516177489ae500dec59d26ccb3b/p/a/paco_rabanne_one_million_edt_100ml_for_men.jpg",
     category: "cosmetics",
     price: 6850,
     shortDesc: "",
@@ -17,7 +17,7 @@ export const newproducts = [
   {
     id: "0003",
     productName: "1 MILLON PERFUME 100ML",
-    imgUrl: default_image,
+    imgUrl: "https://fragrances.com.ng/media/catalog/product/cache/4cf9e516177489ae500dec59d26ccb3b/p/a/paco_rabanne_one_million_edt_100ml_for_men.jpg",
     category: "cosmetics",
     price: 5900,
     shortDesc: "1 MILLON PERFUME 100ML",
@@ -30,7 +30,7 @@ export const newproducts = [
   {
     id: "0004",
     productName: "100% WHEN PROTEIN ISOLATE",
-    imgUrl: default_image,
+    imgUrl: "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/msc/msc71761/l/8.jpg",
     category: "supplements",
     price: 30800,
     shortDesc: "100% WHEN PROTEIN ISOLATE",
@@ -43,7 +43,7 @@ export const newproducts = [
   {
     id: "0005",
     productName: "10ML SYRINGE",
-    imgUrl: default_image,
+    imgUrl: "https://www.supermart.ng/cdn/shop/files/spls2714_401ab183-5406-4d3e-b0e6-44475f9254c6.jpg?v=1712665311",
     category: "surgicals",
     price: 150,
     shortDesc: "10ML SYRINGE",
@@ -56,7 +56,7 @@ export const newproducts = [
   {
     id: "0006",
     productName: "20ML SYRINGE",
-    imgUrl: default_image,
+    imgUrl: "https://www.supermart.ng/cdn/shop/files/spls2716_adae4055-b68e-4199-9dfb-e6e0796e3986_grande.jpg?v=1712665317",
     category: "surgicals",
     price: 200,
     shortDesc: "20ML SYRINGE",
@@ -69,7 +69,7 @@ export const newproducts = [
   {
     id: "0007",
     productName: "21 CENTURY  HAIR, SKIN & NAIL *",
-    imgUrl: default_image,
+    imgUrl: "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen21434/l/18.jpg",
     category: "supplements",
     price: 5250,
     shortDesc: "21 CENTURY  HAIR, SKIN & NAIL *50",
@@ -82,7 +82,7 @@ export const newproducts = [
   {
     id: "0008",
     productName: "21 CENTURY DHEA 25MG *90",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9_IvOgAnM_dI-F66xkJHaqKMwwvn5GlGKw&s",
     category: "supplements",
     price: 6800,
     shortDesc: "21 CENTURY DHEA 25MG *90",
@@ -121,11 +121,11 @@ export const newproducts = [
   {
     id: "0011",
     productName: "212 SEXY MEN PERFUME",
-    imgUrl: default_image,
+    imgUrl: "https://fragrances.com.ng/media/catalog/product/cache/4cf9e516177489ae500dec59d26ccb3b/1/4/148_64731802_1.jpg",
     category: "perfume",
     price: 5200,
-    shortDesc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident!",
+    shortDesc: " consectetur adipisicing elit.",
+    description: " consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident!",
     reviews: [
       { rating: 4.5, text: "This is a high-quality product that meets expectations." }
     ],
@@ -134,7 +134,7 @@ export const newproducts = [
   {
     id: "0012",
     productName: "21G NEEDLE",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbH4KHoYxIBO6S5trVI-G7NzqBFMToNGbYQg&s",
     category: "injectables",
     price: 50,
     shortDesc: "NEEDLE 21G",
@@ -147,7 +147,7 @@ export const newproducts = [
   {
     id: "0013",
     productName: "23G NEEDLE",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN4MvXjy-SYixEG3tS73GcZe1ylEqmqQ2hw&s",
     category: "injectables",
     price: 50,
     shortDesc: "23G NEEDLE",
@@ -160,7 +160,7 @@ export const newproducts = [
   {
     id: "0014",
     productName: "24K EDP 100ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMPDps-AXgk-AXAbfRtQKws9-1Jt--dyqfA&s",
     category: "cosmetics",
     price: 5850,
     shortDesc: "24K EDP 100ML",
@@ -173,7 +173,7 @@ export const newproducts = [
   {
     id: "0015",
     productName: "24K WHITE PERFUME",
-    imgUrl: default_image,
+    imgUrl: "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/33/1481672/2.jpg?8352",
     category: "perfume",
     price: 5850,
     shortDesc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -186,7 +186,7 @@ export const newproducts = [
   {
     id: "0016",
     productName: "2ML SYRINGE",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmbvO2E_NOl-xqMNlmVgFXWoicHxKHifiCSQ&s",
     category: "surgicals",
     price: 100,
     shortDesc: "2ML SYRINGE",
@@ -225,7 +225,7 @@ export const newproducts = [
   {
     id: "0019",
     productName: "3 BALLERINA TEA 53.88G",
-    imgUrl: default_image,
+    imgUrl: "https://m.media-amazon.com/images/I/71bTiVclrxL._SL1341_.jpg",
     category: "grocery",
     price: 2900,
     shortDesc: "3 BALLERINA TEA 53.88G",
@@ -238,7 +238,7 @@ export const newproducts = [
   {
     id: "0020",
     productName: "3 DAYS HIP UP",
-    imgUrl: default_image,
+    imgUrl: "https://www.cocci.com.ng/cdn/shop/products/bob7_021b3100-bf3f-4956-bd76-bb63f2bd5104.jpg?v=1638783873",
     category: "grocery",
     price: 1000,
     shortDesc: "3 DAYS HIP UP",
@@ -251,7 +251,7 @@ export const newproducts = [
   {
     id: "0021",
     productName: "3-BETA CREAM 30G",
-    imgUrl: default_image,
+    imgUrl: "https://deshabpharmacy.com/shop/wp-content/uploads/2022/09/3-beta-cream-30mg.jpg",
     category: "topicals",
     price: 450,
     shortDesc: "CLOBETASOL PROPIONATE, MICONAZOLE NITRATE & NEOMYCIN SULPHATE",
@@ -264,7 +264,7 @@ export const newproducts = [
   {
     id: "0022",
     productName: "443 SMART COLLECTION PERFUME",
-    imgUrl: default_image,
+    imgUrl: "https://www.supermart.ng/cdn/shop/files/aspar9571.jpg?v=1688761322",
     category: "system",
     price: 7800,
     shortDesc: "443 SMART COLLECTION PERFUME",
@@ -277,7 +277,7 @@ export const newproducts = [
   {
     id: "0023",
     productName: "4TH STREET NON ALCOHOL 750ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7C-w-pJpSuzwgf2dKpoMJl-7DzrqEAeqqg&s",
     category: "drinks",
     price: 5500,
     shortDesc: "4TH STREET NON ALCOHOL 750ML",
@@ -290,7 +290,7 @@ export const newproducts = [
   {
     id: "0024",
     productName: "4TH STREET WITH ALCOHOL 750ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYq_4idNpMSbzldkdqxoVhrgXoV44T8O1kw&s",
     category: "drinks",
     price: 5000,
     shortDesc: "4TH STREET WITH ALCOHOL",
@@ -303,7 +303,7 @@ export const newproducts = [
   {
     id: "0025",
     productName: "5 ALIVE BERRY BLAST 78CL",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgpmKWxwd9bcs_sdgng7UGzxbYCHXebkEEEg&s",
     category: "drinks",
     price: 1650,
     shortDesc: "5 ALIVE BERRY BLAST 78CL",
@@ -355,7 +355,7 @@ export const newproducts = [
   {
     id: "0029",
     productName: "7-LAYER PAD",
-    imgUrl: default_image,
+    imgUrl: "https://i0.wp.com/www.kedihealth.com/wp-content/uploads/2019/07/%E5%A4%9C%E7%94%A87layer-500x500.png?fit=495%2C500&ssl=1",
     category: "system",
     price: 2750,
     shortDesc: "7-LAYER PAD",
@@ -368,7 +368,7 @@ export const newproducts = [
   {
     id: "0030",
     productName: "AA SONY ALKALINE *4 BATTERY",
-    imgUrl: default_image,
+    imgUrl: "https://www.supermart.ng/cdn/shop/files/1483267817807_spar6367_sony_alkaline_battery_aa_4_pieces.jpg?v=1688691013",
     category: "system",
     price: 1600,
     shortDesc: "AA SONY ALKALINE *4 BATTERY",
@@ -394,7 +394,7 @@ export const newproducts = [
   {
     id: "0032",
     productName: "ABF-3 CREAM 20G",
-    imgUrl: default_image,
+    imgUrl: "https://www.amkamed.com/web/image/product.template/826/image_1024?unique=31c9e9a",
     category: "topicals",
     price: 1000,
     shortDesc: "ANTI-ALLERGIC, ANTI-BACTERIAL, ANTI-FUNGAL",
@@ -407,7 +407,7 @@ export const newproducts = [
   {
     id: "0033",
     productName: "ABIDEC DROPS 25ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOU3PHtE1xl2xdQGGnLEWYP1u2klGzZ-dlZg&s",
     category: "multivitamins",
     price: 3600,
     shortDesc: "ABIDEC DROPS 25ML",
@@ -420,7 +420,7 @@ export const newproducts = [
   {
     id: "0034",
     productName: "ABONIKI BALM 25G",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1z4YisInnVjHMMytaeY1S9e1qTIuBMS3RtQ&s",
     category: "topicals",
     price: 850,
     shortDesc: "ABONIKI BALM 25G",
@@ -498,7 +498,7 @@ export const newproducts = [
   {
     id: "0040",
     productName: "ACCU-CHEK ACTIVE MACHINE",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ujb7JBIoR61erW0SZ8S0je3TugbexhlBNw&s",
     category: "medical machine",
     price: 24700,
     shortDesc: "ACCU-CHEK ACTIVE MACHINE",
@@ -511,7 +511,7 @@ export const newproducts = [
   {
     id: "0041",
     productName: "ACCU-CHEK LANCETS",
-    imgUrl: default_image,
+    imgUrl: "https://healthplusnigeria.com/cdn/shop/files/Accu-Chek_20Softclix_20Lancets_20x200_01df235f-a9af-4e09-8f74-dd97c75d30de.webp?v=1743029208",
     category: "diagnostics",
     price: 1300,
     shortDesc: "ACCU-CHEK LANCETS",
@@ -550,7 +550,7 @@ export const newproducts = [
   {
     id: "0044",
     productName: "ACIPEP SUSPENSION 200ML",
-    imgUrl: default_image,
+    imgUrl: "https://kanozon.com/cdn/shop/products/Acipep-200ml-Mint-flavor-With-Anti-Reflux-Action-AIB-Allied-Product-_-PHARMACY-Stores-LTD-1647610911.jpg?v=1650880955",
     category: "antacid",
     price: 2800,
     shortDesc: "ACIPEP SUSPENSION 200ML",
@@ -615,7 +615,7 @@ export const newproducts = [
   {
     id: "0049",
     productName: "ACORBIC C-1000MG *50",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3nmaI1R8qYcADoi97PNlP32GyLAXaboZlkg&s",
     category: "antioxidant",
     price: 10500,
     shortDesc: "ACORBIC C-1000MG *50",
@@ -628,7 +628,7 @@ export const newproducts = [
   {
     id: "0050",
     productName: "ACTIFED COLD SYRUP 60ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjifbLFHD3hE0MGpn3nq5-aWXdaApZBYkTw&s",
     category: "cough, cold  & flu",
     price: 1200,
     shortDesc: "TRIPROLIDINE HCI, PSEUDOEPHEDRINE",
@@ -641,7 +641,7 @@ export const newproducts = [
   {
     id: "0051",
     productName: "ACTIFIED TAB",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZI-BJZdbSnmtu7KKS_pNNE5s2h80bYc-FA&s",
     category: "cough, cold  & flu",
     price: 9100,
     shortDesc: "ACTIFIED TAB",
@@ -758,7 +758,7 @@ export const newproducts = [
   {
     id: "0060",
     productName: "ACYCOR PLUS",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF_T-1WQkk-HkYuzFr5nvlQbgx6xH8HOqm9g&s",
     category: "analgesic",
     price: 1000,
     shortDesc: "ACECLOFENAC",
@@ -771,7 +771,7 @@ export const newproducts = [
   {
     id: "0061",
     productName: "ACYCOR TAB",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT93GJB7AWxEskajXZto1WgOnX7DMifrIwPw&s",
     category: "analgesic",
     price: 1000,
     shortDesc: "ACECLOFENAC",
@@ -784,7 +784,7 @@ export const newproducts = [
   {
     id: "0062",
     productName: "ACYVIR EYE OINTMENT",
-    imgUrl: default_image,
+    imgUrl: "https://megacare.ng/media/image/acivir-eye-ointment_9bJlHMi.jpg",
     category: "eye/ear drops",
     price: 4650,
     shortDesc: "ACYVIR EYE OINTMENT",
@@ -797,7 +797,7 @@ export const newproducts = [
   {
     id: "0063",
     productName: "AD FLUCONAZOLE",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGvEdGc83BEXJ6ppbg7RH7a7dxkNGbrp3Fwg&s",
     category: "antifungal",
     price: 1900,
     shortDesc: "FLUCONAZOLE",
@@ -810,7 +810,7 @@ export const newproducts = [
   {
     id: "0064",
     productName: "ADAM HERBS MORINGA 37.5G",
-    imgUrl: default_image,
+    imgUrl: "https://soritesuperstore.com.ng/wp-content/uploads/2023/12/aloe_blossom_herbal_tea__pd_main_512_X_512_1611255983356-400x400.webp",
     category: "grocery",
     price: 3900,
     shortDesc: "ADAM HERBS MORINGA 37.5G",
@@ -823,8 +823,8 @@ export const newproducts = [
   {
     id: "0065",
     productName: "ADAM SLIMMING HERBAL TEA",
-    imgUrl: default_image,
-    category: "beverage",
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZikrKo4N5okqejiZlWs1yHoTRMp2T56JyA&s",
+    category: "beverages",
     price: 3900,
     shortDesc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident!",
@@ -836,7 +836,7 @@ export const newproducts = [
   {
     id: "0066",
     productName: "ADAY KIT TAB",
-    imgUrl: default_image,
+    imgUrl: "https://healthplusnigeria.com/cdn/shop/files/Aday_20Kit_20Tablets_c3dd3467-8a9d-46ea-9d23-43f88a9123f2_grande.webp?v=1747249752",
     category: "antibiotics",
     price: 2750,
     shortDesc: "ADAY KIT TAB",
@@ -849,7 +849,7 @@ export const newproducts = [
   {
     id: "0067",
     productName: "ADCIPRO-TN",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkiEWm_80xHyOdWAWqgXo_pVObL4WGnVQ7Bg&s",
     category: "antibiotics",
     price: 600,
     shortDesc: "CIPROFLOXACIN & TINIDAZOLE",
@@ -862,7 +862,7 @@ export const newproducts = [
   {
     id: "0068",
     productName: "ADDYZOA HERBAL CAPSULES",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJo1p0JSqSwsc0TT9cO18cWoarMuuVJw16kQ&s",
     category: "antioxidant",
     price: 10900,
     shortDesc: "ADDYZOA HERBAL CAPSULES",
@@ -875,7 +875,7 @@ export const newproducts = [
   {
     id: "0069",
     productName: "AEROLINE INHALER",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHzSlDQBtM1UYNDI8OYjVTnWkUQxropJX5g&s",
     category: "haematinic",
     price: 3500,
     shortDesc: "SALBUTAMOL",
@@ -888,7 +888,7 @@ export const newproducts = [
   {
     id: "0070",
     productName: "AFM-T DROPS 5ML",
-    imgUrl: default_image,
+    imgUrl: "https://www.supermart.ng/cdn/shop/products/AFM-T-Eye-Drops-5-ml-Supermart-ng-5358.jpg?v=1690554821",
     category: "eye/ear drops",
     price: 4200,
     shortDesc: "FLUOROMETHOLONE & TETRAHYDROZOLINE",
@@ -901,7 +901,7 @@ export const newproducts = [
   {
     id: "0071",
     productName: "AFRAB IBUPROFEN SUSPENSION",
-    imgUrl: default_image,
+    imgUrl: "https://d3ckuu7lxvlwp2.cloudfront.net/products/1143751228617bf2ef89e56product.webp",
     category: "analgesic",
     price: 1000,
     shortDesc: "AFRAB IBUPROFEN SUSPENSION",
@@ -914,7 +914,7 @@ export const newproducts = [
   {
     id: "0072",
     productName: "AFRAB LORATADINE NON DROWSY 60M",
-    imgUrl: default_image,
+    imgUrl: "https://medecify.com/storages/2024/11/DF-C-A-B-F-B-D-B-CA-971x1024.jpeg",
     category: "antihistamine",
     price: 1000,
     shortDesc: "AFRAB LORATADINE NON DROWSY 60ML",
@@ -927,7 +927,7 @@ export const newproducts = [
   {
     id: "0073",
     productName: "AFRAB SALBUTAMOL 4MG",
-    imgUrl: default_image,
+    imgUrl: "https://allschoolabs.com/wp-content/uploads/2024/04/AFRAB20SALBUTAMOL204MG20X2010020TABS.jpg",
     category: "bronchodilator",
     price: 200,
     shortDesc: "SALBUTAMOL SULPHATE",
@@ -953,7 +953,7 @@ export const newproducts = [
   {
     id: "0075",
     productName: "AFRAB VITE 100ML",
-    imgUrl: default_image,
+    imgUrl: "https://d3ckuu7lxvlwp2.cloudfront.net/products/01HN2QN3B89D7ST548WXA31GKX.webp",
     category: "multivitamins",
     price: 1200,
     shortDesc: "MULTIVITAMIN",
@@ -966,7 +966,7 @@ export const newproducts = [
   {
     id: "0076",
     productName: "AFRABVITE DROPS",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyhQQs1j20wvUdMrM-hYiRtQ69aXZsaPf3Iw&s",
     category: "multivitamins",
     price: 1100,
     shortDesc: "AFRABVITE DROPS",
@@ -1044,7 +1044,7 @@ export const newproducts = [
   {
     id: "0082",
     productName: "AGARY I.V CANNULA",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSouSkl0UbMoweTE7cJbfJU7aVOaOQxhuVfgA&s",
     category: "injectables",
     price: 100,
     shortDesc: "AGARY I.V CANNULA",
@@ -1057,7 +1057,7 @@ export const newproducts = [
   {
     id: "0083",
     productName: "AGARY SURGICAL BLADES 100PCS",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaePI5E43M3h3R7mF88x-BZtwZjXYz1OrjbA&s",
     category: "medical surgicals & disposables",
     price: 100,
     shortDesc: "AGARY SURGICAL BLADES 100PCS",
@@ -1096,7 +1096,7 @@ export const newproducts = [
   {
     id: "0086",
     productName: "AGNESIA BABY SOAP",
-    imgUrl: default_image,
+    imgUrl: "https://shopmamatega.com/cdn/shop/products/TEGA373871238QWE_0fdc27df-c4a4-43b2-bc76-7f722a20f57c.png?v=1702345625",
     category: "soap",
     price: 600,
     shortDesc: "AGNESIA BABY SOAP",
@@ -1148,7 +1148,7 @@ export const newproducts = [
   {
     id: "0090",
     productName: "AIR WICK GEL 45G",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJtUHLSSKBZZoiyvZ44tIWQeocK5gm4Zjm8A&s",
     category: "toiletries",
     price: 950,
     shortDesc: "AIR WICK GEL 45G",
@@ -1174,7 +1174,7 @@ export const newproducts = [
   {
     id: "0092",
     productName: "AJACIN-10 10MG",
-    imgUrl: default_image,
+    imgUrl: "https://admin.generaldrugcentre.com/images/product/100.jpg",
     category: "antihypertensive",
     price: 2550,
     shortDesc: "ROSUVASTATIN CALCIUM",
@@ -1187,7 +1187,7 @@ export const newproducts = [
   {
     id: "0093",
     productName: "AJACIN-20 X28",
-    imgUrl: default_image,
+    imgUrl: "https://admin.generaldrugcentre.com/images/product/100.jpg",
     category: "anticholesterol",
     price: 1850,
     shortDesc: "ROSUVASTATIN CALCIUM",
@@ -1200,7 +1200,7 @@ export const newproducts = [
   {
     id: "0094",
     productName: "AJACIN-5 X28",
-    imgUrl: default_image,
+    imgUrl: "https://admin.generaldrugcentre.com/images/product/100.jpg",
     category: "anticholesterol",
     price: 1500,
     shortDesc: "ROSUVASTATIN CALCIUM",
@@ -1317,7 +1317,7 @@ export const newproducts = [
   {
     id: "0103",
     productName: "ALATA GARDEN DIAMOND SOAP",
-    imgUrl: default_image,
+    imgUrl: "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/52/9812541/1.jpg?6545",
     category: "soap",
     price: 3250,
     shortDesc: "ALATA GARDEN DIAMOND SOAP",
@@ -1330,7 +1330,7 @@ export const newproducts = [
   {
     id: "0104",
     productName: "ALCOHOL PREP PAD",
-    imgUrl: default_image,
+    imgUrl: "https://www.supermart.ng/cdn/shop/products/Alcohol-Prep-Pad-Swabs-x100-Supermart-ng-8444.jpg?v=1690698631",
     category: "medical surgicals & disposables",
     price: 50,
     shortDesc: "ALCOHOL PREP PAD",
@@ -1343,7 +1343,7 @@ export const newproducts = [
   {
     id: "0105",
     productName: "ALCOHOL SWAB 65X30MM 2PLY",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ--0JtuiEEHRSJXiVxL1jM9Jqtc3w5P2wn2A&s",
     category: "medical surgicals & disposables",
     price: 30,
     shortDesc: "ALCOHOL SWAB 65X30MM 2PLY",
@@ -1356,7 +1356,7 @@ export const newproducts = [
   {
     id: "0106",
     productName: "ALDACTONE TAB x20",
-    imgUrl: default_image,
+    imgUrl: "https://healthplusnigeria.com/cdn/shop/files/Aldactone_20Spironolactone_2025mg_20x20_a019627c-334d-45e7-a045-12181afe998b.webp?v=1747250159",
     category: "diuretics",
     price: 7300,
     shortDesc: "SPIRONOLACTONE",
@@ -1369,7 +1369,7 @@ export const newproducts = [
   {
     id: "0107",
     productName: "ALDOCURE 250MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoPqJc5Dz_RgRxVPXHs8qG8YpmA-j2kTUceg&s",
     category: "antihypertensive",
     price: 850,
     shortDesc: "METHYLDOPA",
@@ -1382,7 +1382,7 @@ export const newproducts = [
   {
     id: "0108",
     productName: "ALDOMET 250MG",
-    imgUrl: default_image,
+    imgUrl: "https://www.amkamed.com/web/image/product.template/161/image_1024?unique=ec61746",
     category: "antihypertensive",
     price: 2000,
     shortDesc: "METHYLDOPA",
@@ -1421,7 +1421,7 @@ export const newproducts = [
   {
     id: "0111",
     productName: "ALLERGIN SYRUP 60ML",
-    imgUrl: default_image,
+    imgUrl: "https://www.supermart.ng/cdn/shop/products/Allergin-Chlorpheniramine-Maleate-B-P-2mg-5-ml-60-ml-Supermart-ng-4770.jpg?v=1690734309",
     category: "antihistamine",
     price: 1050,
     shortDesc: "ALLERGIN SYRUP 60ML",
@@ -1434,7 +1434,7 @@ export const newproducts = [
   {
     id: "0112",
     productName: "ALLOPURINOL 100MG TEVA",
-    imgUrl: default_image,
+    imgUrl: "https://megacare.ng/media/image/allopurinol-100mg_dx8o1ex.jpg",
     category: "antigout",
     price: 1500,
     shortDesc: "ALLOPURINOL",
@@ -1447,7 +1447,7 @@ export const newproducts = [
   {
     id: "0113",
     productName: "ALLOPURINOL 300MG TAB",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGbE3AOgvMtQWTjYNAKqTZtfc6D81WSVq_w&s",
     category: "antigout",
     price: 1500,
     shortDesc: "ALLOPURINOL",
@@ -1499,7 +1499,7 @@ export const newproducts = [
   {
     id: "0117",
     productName: "ALPENLIEBE CANDY 30.6G",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuVwnhSn_1K967iRMhcJkKxpqxV2lklHi9tw&s",
     category: "confectioneries",
     price: 350,
     shortDesc: "ALPENLIEBE CANDY 30.6G",
@@ -1512,7 +1512,7 @@ export const newproducts = [
   {
     id: "0118",
     productName: "ALPENLIEBE MILK CANDY *2",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv6iuIY9c8UgNND6Zi0CFriK8dcjj5imqESA&s",
     category: "confectioneries",
     price: 25,
     shortDesc: "ALPENLIEBE MILK CANDY *2",
@@ -1538,7 +1538,7 @@ export const newproducts = [
   {
     id: "0120",
     productName: "ALPHAGAN EYE DROP 5ML",
-    imgUrl: default_image,
+    imgUrl: "https://precious-pharmacy.com/cdn/shop/products/alphagan-brimonidine-tartrate-02-eye-drop-5ml.jpg?v=1597147638",
     category: "eye/ear drops",
     price: 11000,
     shortDesc: "BRIMONIDINE TARTRATE",
@@ -1551,7 +1551,7 @@ export const newproducts = [
   {
     id: "0121",
     productName: "ALTADON 3",
-    imgUrl: default_image,
+    imgUrl: "https://medecify.com/storages/2025/01/Altadon-1024x1004.jpg",
     category: "drugs",
     price: 1200,
     shortDesc: "RISPERIDONE 3MG",
@@ -1564,7 +1564,7 @@ export const newproducts = [
   {
     id: "0122",
     productName: "ALWAYS ULTRA THIN EXTRA LONG *7",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgLxCvAvwYK06p-hVabkYWUWU7Hih_Dm-Wdg&s",
     category: "toiletries",
     price: 1650,
     shortDesc: "ALWAYS ULTRA THIN EXTRA LONG *7",
@@ -1577,7 +1577,7 @@ export const newproducts = [
   {
     id: "0123",
     productName: "ALWAYS ULTRA THIN PINK *16",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_QWmllaf3lWSMkUdRCMVhLaR5IDHuBqE-iA&s",
     category: "toiletries",
     price: 2950,
     shortDesc: "ALWAYS ULTRA THIN PINK *16",
@@ -1615,8 +1615,8 @@ export const newproducts = [
   },
   {
     id: "0126",
-    productName: "AMALAR TAB",
-    imgUrl: default_image,
+    productName: "Amalar tab",
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwt_qtLrWd-pKoQcSl3FCJfq2sRhMZ87MJw&s",
     category: "antimalarial",
     price: 500,
     shortDesc: "SULFADOXINE/PYRIMETHAMINE",
@@ -1655,7 +1655,7 @@ export const newproducts = [
   {
     id: "0129",
     productName: "AMARYL 1MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUsT5WQU7o4kSS2lajevQdzuBCEGl1U0OU8g&s",
     category: "antidiabetic",
     price: 2400,
     shortDesc: "AMARYL GLIMEPIRIDE TABLET",
@@ -1668,7 +1668,7 @@ export const newproducts = [
   {
     id: "0130",
     productName: "AMARYL 2MG *30",
-    imgUrl: default_image,
+    imgUrl: "https://healthplusnigeria.com/cdn/shop/files/Amaryl_20_28Glimepiride_29_202mg_20Tabs_20x30_68f9145a-2e3f-48a0-b743-4c8f289f8515.webp?v=1747250305",
     category: "antidiabetic",
     price: 4000,
     shortDesc: "GLIMEPIRIDE",
@@ -1681,7 +1681,7 @@ export const newproducts = [
   {
     id: "0131",
     productName: "AMARYL 4MG *30",
-    imgUrl: default_image,
+    imgUrl: "https://healthplusnigeria.com/cdn/shop/files/zpih6mlue9he3izdsrfz.webp?v=1747249451",
     category: "antidiabetic",
     price: 4900,
     shortDesc: "GLIMEPIRIDE",
@@ -1694,7 +1694,7 @@ export const newproducts = [
   {
     id: "0132",
     productName: "AMATEM FORTE *6",
-    imgUrl: default_image,
+    imgUrl: "https://precious-pharmacy.com/cdn/shop/products/Artboard16_ad318b54-389a-4230-928a-e70e76f9dc30.png?v=1597144942",
     category: "antimalarial",
     price: 2100,
     shortDesc: "ARTEMETHER /LUMEFRANTINE",
@@ -1707,7 +1707,7 @@ export const newproducts = [
   {
     id: "0133",
     productName: "AMATEM FORTE SOFTGEL",
-    imgUrl: default_image,
+    imgUrl: "https://precious-pharmacy.com/cdn/shop/products/Artboard16_ad318b54-389a-4230-928a-e70e76f9dc30.png?v=1597144942",
     category: "antimalarial",
     price: 3000,
     shortDesc: "ARTEMETHER & LUMEFANTRINE",
@@ -1720,7 +1720,7 @@ export const newproducts = [
   {
     id: "0134",
     productName: "AMATEM SOFTGEL BY 24",
-    imgUrl: default_image,
+    imgUrl: "https://healthplusnigeria.com/cdn/shop/files/Amatem_20Softgel_2020-120mg_20Tablets_20x_2024_11b91f5a-6689-4b2b-8359-eaa74820772d.webp?v=1743031055",
     category: "antimalarial",
     price: 2000,
     shortDesc: "ARTEMETHER /LUMEFRANTINE",
@@ -1759,7 +1759,7 @@ export const newproducts = [
   {
     id: "0137",
     productName: "AMBI PUR FRESHELLE BLACK CHERRY",
-    imgUrl: default_image,
+    imgUrl: "https://www.shopurban.co/_next/image?url=https%3A%2F%2Fimageupload.s3.amazonaws.com%2Fproducts%2Fambi-pur-air-reed-diffuser-160ml-piece.jpg&w=640&q=75",
     category: "provision",
     price: 5200,
     shortDesc: "AMBI PUR FRESHELLE BLACK CHERRY",
@@ -1902,7 +1902,7 @@ export const newproducts = [
   {
     id: "0148",
     productName: "AMLONG 5",
-    imgUrl: default_image,
+    imgUrl: "https://d3ckuu7lxvlwp2.cloudfront.net/products/01HNFQJ4EW3538PQR3W1KD5JAW.jpg",
     category: "drugs",
     price: 1600,
     shortDesc: "AMLODIPINE 5MG",
@@ -1928,7 +1928,7 @@ export const newproducts = [
   {
     id: "0150",
     productName: "AMOKSIKLAV 1G",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdni0gNOsKhhpIB9JOJnBEM7--xfycXylIBQ&s",
     category: "antibiotics",
     price: 11200,
     shortDesc: "AMOXICILLIN/CLAVULANIC ACID",
@@ -2188,7 +2188,7 @@ export const newproducts = [
   {
     id: "0170",
     productName: "ANAFRANIL 25MG TAB",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOZJ_KBJLaK5mcmE6pKnUKfWNQ-6c7OU8JQ&s",
     category: "antidepressant",
     price: 200,
     shortDesc: "CHLORMIPRAMINE HCI",
@@ -2214,7 +2214,7 @@ export const newproducts = [
   {
     id: "0172",
     productName: "ANDREW LIVER SALT",
-    imgUrl: default_image,
+    imgUrl: "https://healthwisepharmacies.ie/wp-content/uploads/2020/10/ANDREWS-LIVER-SALTS_5099627809429.jpg",
     category: "laxative",
     price: 200,
     shortDesc: "SODIUM BICARBONATE",
@@ -2344,7 +2344,7 @@ export const newproducts = [
   {
     id: "0182",
     productName: "ANTALGEX T X20 CAPSULES",
-    imgUrl: default_image,
+    imgUrl: "https://i0.wp.com/vastoversdrugsandalliedproducts.com/wp-content/uploads/2024/10/PhotoRoom-20240916_104923_29.png?fit=1080%2C1080&ssl=1",
     category: "analgesic (opioid)",
     price: 9000,
     shortDesc: "ANTALGEX T X20 CAPSULES",
@@ -2370,7 +2370,7 @@ export const newproducts = [
   {
     id: "0184",
     productName: "ANTIHYPERTENSIVE TEA",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXMORwlwWyTCc7nd7HXn4UGSP6EevU8jD4TA&s",
     category: "beverages",
     price: 1300,
     shortDesc: "ANTIHYPERTENSIVE TEA",
@@ -2396,7 +2396,7 @@ export const newproducts = [
   {
     id: "0186",
     productName: "ANUDOL SUPPOSITORIES",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXc-sjbg0V7lVoHzxJkqFAWZED891U7XvsQ&s",
     category: "antihemorrhoids",
     price: 500,
     shortDesc: "ANUDOL SUPPOSITORIES",
@@ -2422,7 +2422,7 @@ export const newproducts = [
   {
     id: "0188",
     productName: "ANUSOL CREAM 23G",
-    imgUrl: default_image,
+    imgUrl: "https://www.mccabespharmacy.com/cdn/shop/files/AnusolCream23g1.jpg?v=1704800636",
     category: "antihemorrhoids",
     price: 4300,
     shortDesc: "ANUSOL CREAM 23G",
@@ -2435,7 +2435,7 @@ export const newproducts = [
   {
     id: "0189",
     productName: "ANUSOL OINTMENT 25G",
-    imgUrl: default_image,
+    imgUrl: "https://healthplusnigeria.com/cdn/shop/files/Anusol_20Ointment_2025g_52d51edf-107b-42ef-8e80-2d163024f561.webp?v=1744728992",
     category: "antihemorrhoids",
     price: 4300,
     shortDesc: "ANUSOL OINTMENT",
@@ -2461,7 +2461,7 @@ export const newproducts = [
   {
     id: "0191",
     productName: "APETABON SYRUP200ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_s938jqfIq5XUDg7eft-UpdAMYi4xW23mg&s",
     category: "appetite inducer",
     price: 2500,
     shortDesc: "CYPROHEPTADINE SYRUP200ML",
@@ -2487,7 +2487,7 @@ export const newproducts = [
   {
     id: "0193",
     productName: "APEX PREGNANCY TEST STRIP",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRePJyH9exdAwSGbkKWcrI2PcWIBn6E1NCBGQ&s",
     category: "diagnostics",
     price: 200,
     shortDesc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -2656,7 +2656,7 @@ export const newproducts = [
   {
     id: "0206",
     productName: "AQUAFRESH TOOTHPASTE",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbGJPW3bpubKm6RItXRTAEVkpiq-Fbmzb5LQ&s",
     category: "provision",
     price: 3250,
     shortDesc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -2721,7 +2721,7 @@ export const newproducts = [
   {
     id: "0211",
     productName: "ARENAX PLUS *6",
-    imgUrl: default_image,
+    imgUrl: "https://healthplusnigeria.com/cdn/shop/files/Arenax_20Plus_2020-120mg_20x6_2f6921f1-f89b-4698-b741-b88fd299cb28.webp?v=1743027500",
     category: "antimalarial",
     price: 1000,
     shortDesc: "ARENAX PLUS *6",
@@ -2734,7 +2734,7 @@ export const newproducts = [
   {
     id: "0212",
     productName: "ARENAX PLUS FORTE *6",
-    imgUrl: default_image,
+    imgUrl: "https://healthplusnigeria.com/cdn/shop/files/Arenax_20Plus_2020-120mg_20x6_2f6921f1-f89b-4698-b741-b88fd299cb28.webp?v=1743027500",
     category: "antimalarial",
     price: 800,
     shortDesc: "ARENAX PLUS FORTE *6",
@@ -2799,7 +2799,7 @@ export const newproducts = [
   {
     id: "0217",
     productName: "ARTANE 5MG /*5",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyb2fbZ3_Tfr5Wl9UYnUKDq1ndN6h5P5J3Q&s",
     category: "anti-spasmodic",
     price: 1000,
     shortDesc: "TRIHEXYPHENIDYL BENZHEXOL",
@@ -2812,7 +2812,7 @@ export const newproducts = [
   {
     id: "0218",
     productName: "ARTELUM COMBO 80/480",
-    imgUrl: default_image,
+    imgUrl: "https://www.amkamed.com/web/image/product.template/304/image_1024?unique=802a0d4",
     category: "antimalarial",
     price: 1400,
     shortDesc: "ARTELUM COMBO 80/480",
@@ -2825,7 +2825,7 @@ export const newproducts = [
   {
     id: "0219",
     productName: "ARTEMETER INJECTION 80MG/1ML",
-    imgUrl: default_image,
+    imgUrl: "https://www.amkamed.com/web/image/product.template/668/image_1920?unique=802a0d4",
     category: "antimalarial",
     price: 700,
     shortDesc: "ARTEMETHER",
@@ -2864,7 +2864,7 @@ export const newproducts = [
   {
     id: "0222",
     productName: "ARTHOCARE CAP *30",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH862gIma-mjAJUnzRfUhtPEjV8eNvxgcDmg&s",
     category: "antiarthritic",
     price: 9100,
     shortDesc: "ARTHOCARE CAP *30",
@@ -2877,7 +2877,7 @@ export const newproducts = [
   {
     id: "0223",
     productName: "ARTHOCARE FORTE CAP *30",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb8vqsV7ecD__OFYVK7g71DMNQRoe-CPZ9mA&s",
     category: "antiarthritic",
     price: 13300,
     shortDesc: "ARTHOCARE FORTE CAP *30",
@@ -2903,7 +2903,7 @@ export const newproducts = [
   {
     id: "0225",
     productName: "ASANTEE CARROT WITH HONEY SOAP",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOy_L0JiIdoX8-8975ybKQpkQSLXsR-1-GA&s",
     category: "soap",
     price: 1750,
     shortDesc: "ASANTEE CARROT WITH HONEY SOAP",
@@ -2929,7 +2929,7 @@ export const newproducts = [
   {
     id: "0227",
     productName: "ASCOMED COUNTING (4 TAB)",
-    imgUrl: default_image,
+    imgUrl: "https://curadivina.com.ng/wp-content/uploads/2023/10/37A50662-9457-4FB5-BEF0-D6967FB7BE0B.jpeg",
     category: "antioxidant",
     price: 10,
     shortDesc: "VITAMIN C",
@@ -2994,7 +2994,7 @@ export const newproducts = [
   {
     id: "0232",
     productName: "ASCOREX EXPECTORANT 100ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOk59U4TmWBucOtzvHPaY4MNK8JpyCIvkIug&s",
     category: "cough, cold  & flu",
     price: 1850,
     shortDesc: "ASCOREX EXPECTORANT",
@@ -3007,7 +3007,7 @@ export const newproducts = [
   {
     id: "0233",
     productName: "ASMALYN SYRUP 100ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuARK4grJxacIdj2XI6yRvQ6za6J3MA0GttA&s",
     category: "bronchodilator",
     price: 1200,
     shortDesc: "ASMALYN SYRUP",
@@ -3020,7 +3020,7 @@ export const newproducts = [
   {
     id: "0234",
     productName: "ASMANOL *50 TAB",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgsPhZOIuCCxChMslhY5KTGIkMX_HQ_IG-BA&s",
     category: "bronchodilator",
     price: 600,
     shortDesc: "ASMANOL *50 TAB",
@@ -3072,7 +3072,7 @@ export const newproducts = [
   {
     id: "0238",
     productName: "ASTRA GOLD EYE ANTIOXIDANT FORM",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl5Rk3QrLhxu5P1ZOI7bRbmkZfVaka2hqTIA&s",
     category: "eye antioxidants",
     price: 7700,
     shortDesc: "ASTRA GOLD EYE ANTIOXIDANT FORMULAR",
@@ -3085,7 +3085,7 @@ export const newproducts = [
   {
     id: "0239",
     productName: "ASTYFER CAPSULES",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa1hzHiEygGDvyYk7gZS0FjvBzJ4EoIP3NJA&s",
     category: "haematinic",
     price: 5200,
     shortDesc: "IRON, AMINO ACID WITH VITAMIN-B COMPLEX",
@@ -3098,7 +3098,7 @@ export const newproducts = [
   {
     id: "0240",
     productName: "ASTYFER SYRUP 200ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyd_6ru1yIYbTke8HeOoh8DOB3cT2Zo9rzg&s",
     category: "haematinic",
     price: 5000,
     shortDesc: "ASTYFER SYRUP",
@@ -3163,7 +3163,7 @@ export const newproducts = [
   {
     id: "0245",
     productName: "ATADYN SYRUP 5mg/ml",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kPGd-ROhZhzuhAgS8YF5Fxc66hHHzvb9iQ&s",
     category: "drugs",
     price: 2100,
     shortDesc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -3215,7 +3215,7 @@ export const newproducts = [
   {
     id: "0249",
     productName: "ATORVASTATIN 10 LIFEBACK",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MU3jiD4ibur_4F8xHB0R2GO3jygVyrIAOw&s",
     category: "anticholesterol",
     price: 2800,
     shortDesc: "ATORVASTATIN 10 LIFEBACK",
@@ -3449,7 +3449,7 @@ export const newproducts = [
   {
     id: "0267",
     productName: "AVENTRA 5% DETROXE & SALINE INF",
-    imgUrl: default_image,
+    imgUrl: "https://cfimages.gomed.ng/media/filer_public_thumbnails/filer_public/d9/b3/d9b3348e-2aff-4a03-a940-cd71f4f69627/filer_public94f094f0b8f7-44a8-44b0-b3f3-8c4b78db6251tmptmpxsaxagqz.webp__850x850_q85_crop-smart_subsampling-2.webp",
     category: "infusion",
     price: 800,
     shortDesc: "AVENTRA 5% DETROXE & SALINE INFUSION",
@@ -3501,7 +3501,7 @@ export const newproducts = [
   {
     id: "0271",
     productName: "AVROAPETIT SYRUP 200ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzgmL6f8TarFYmO4pwCcUdf55U8dsvo5qeg&s",
     category: "appetite inducer",
     price: 1700,
     shortDesc: "AVROAPETIT SYRUP",
@@ -3579,7 +3579,7 @@ export const newproducts = [
   {
     id: "0277",
     productName: "AXE AFTER SHAVE",
-    imgUrl: default_image,
+    imgUrl: "https://i.makeup.ae/e/ef/ef5s04pn8k7s.jpg",
     category: "provision",
     price: 5200,
     shortDesc: "AXE AFTER SHAVE",
@@ -3995,7 +3995,7 @@ export const newproducts = [
   {
     id: "0309",
     productName: "BALLERINA HERBAL TEA",
-    imgUrl: default_image,
+    imgUrl: "https://m.media-amazon.com/images/I/71bTiVclrxL._AC_UF1000,1000_QL80_.jpg",
     category: "beverages",
     price: 2000,
     shortDesc: "BALLERINA HERBAL TEA",
@@ -4060,7 +4060,7 @@ export const newproducts = [
   {
     id: "0314",
     productName: "BARIFULVIN",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxRCmRgj2DFejam6QgzakoUtAh8XeavChyVQ&s",
     category: "antifungal",
     price: 1850,
     shortDesc: "GRISEOFULVIN",
@@ -4099,7 +4099,7 @@ export const newproducts = [
   {
     id: "0317",
     productName: "BARON ROMERO",
-    imgUrl: default_image,
+    imgUrl: "https://www.supermart.ng/cdn/shop/files/omkt062_69a1da56-14ce-4f57-b9bc-68739115e637.jpg?v=1739304875",
     category: "wines",
     price: 4200,
     shortDesc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -4177,7 +4177,7 @@ export const newproducts = [
   {
     id: "0323",
     productName: "BAYGON 300ML",
-    imgUrl: default_image,
+    imgUrl: "https://shoprite.ng/wp-content/uploads/2023/04/Insect-Baygon-300Ml-Reg-1299.99.jpg",
     category: "insecticide",
     price: 3350,
     shortDesc: "BAYGON 300ML",
@@ -4190,7 +4190,7 @@ export const newproducts = [
   {
     id: "0324",
     productName: "BAYGON 500ML",
-    imgUrl: default_image,
+    imgUrl: "https://nextcashandcarry.com.ng/wp-content/uploads/2022/09/BaygonMikKerosene500ml_1200x1200.webp",
     category: "insecticide",
     price: 5500,
     shortDesc: "BAYGON 500ML",
@@ -4632,7 +4632,7 @@ export const newproducts = [
   {
     id: "0358",
     productName: "BELOXXI CREAM CRACKER 150G",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUrHPj8W0hBaYOvEyveRLbgT57bJ5ymeRvpQ&s",
     category: "confectioneries",
     price: 500,
     shortDesc: "BELOXXI CREAM CRACKER 150G",
@@ -4710,7 +4710,7 @@ export const newproducts = [
   {
     id: "0364",
     productName: "BENDROFLUMETHIAZIDE TAB 5MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0o1OT8W2GcG4-Uxj1sPKVfsFdwYFqNjbtA&s",
     category: "diuretics",
     price: 650,
     shortDesc: "BENDROFLUMETHIAZIDE",
@@ -4722,8 +4722,8 @@ export const newproducts = [
   },
   {
     id: "0365",
-    productName: "BENDROFLUMETHIAZIDE TAB 5MG",
-    imgUrl: default_image,
+    productName: "BENDROFLUMETHIAZIDE TAB 5MGACCORD",
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhTHQwnltfmqdgaDxxYR3BSv8luRmGYJ0IaA&s",
     category: "diuretics",
     price: 2900,
     shortDesc: "BENDROFLUMETHIAZIDE TAB 5MG(ACCORD)",
@@ -4801,7 +4801,7 @@ export const newproducts = [
   {
     id: "0371",
     productName: "BENZHEXOL TAB 5MG *500",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmtUgmZ2mV3UbGI7O1H9pSA49_qsj-wnmBg&s",
     category: "antidepressant",
     price: 200,
     shortDesc: "BENZHEXOL TAB 5MG *500",
@@ -4970,7 +4970,7 @@ export const newproducts = [
   {
     id: "0384",
     productName: "BETAHISTINE 16MG",
-    imgUrl: default_image,
+    imgUrl: "https://medecify.com/storages/2024/11/AE-F-C-D-C-B-F-DCC-scaled.jpeg",
     category: "anti-vertigo",
     price: 400,
     shortDesc: "BETAHISTINE DIHYDROCHLORIDE",
@@ -4983,7 +4983,7 @@ export const newproducts = [
   {
     id: "0385",
     productName: "BETAHISTINE 8MG",
-    imgUrl: default_image,
+    imgUrl: "https://kanozon.com/cdn/shop/files/Screenshot_20230601_155130_Chrome.jpg?v=1685631216",
     category: "anti-vertigo",
     price: 300,
     shortDesc: "BETAHISTINE DIHYDROCHLORIDE",
@@ -5009,7 +5009,7 @@ export const newproducts = [
   {
     id: "0387",
     productName: "BETANEM TAB",
-    imgUrl: default_image,
+    imgUrl: "https://catlog-s3.s3.eu-west-2.amazonaws.com/ITEMS//kl6slueum1.jpeg",
     category: "anti-inflammatory steroid",
     price: 150,
     shortDesc: "BETAMETHASONE",
@@ -5334,7 +5334,7 @@ export const newproducts = [
   {
     id: "0412",
     productName: "BIOCINE LINCOMYCIN 250mg/5ml",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1cWlRJnHxl9H0bODBn_MrKG1UVu9sBJQug&s",
     category: "syrup",
     price: 3950,
     shortDesc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -5399,7 +5399,7 @@ export const newproducts = [
   {
     id: "0417",
     productName: "BIOMESTATINE VAGINAL TAB",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgzcxIsmZm1mygoeobHiflC7kuM12eCBqXqQ&s",
     category: "pessaries",
     price: 1200,
     shortDesc: "NYSTATIN",
@@ -5451,7 +5451,7 @@ export const newproducts = [
   {
     id: "0421",
     productName: "BIOPSY NEEDLE 18G X 200MM",
-    imgUrl: default_image,
+    imgUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNG47LBeh8RJkWz_8p8Pk0l029AFmYDawFpw&s",
     category: "diagnostics",
     price: 9100,
     shortDesc: "BASIC HEALTH BIOPSY NEEDLE 18G X200MM",
@@ -5568,7 +5568,7 @@ export const newproducts = [
   {
     id: "0430",
     productName: "BISACURE TAB",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ_bCyo33OlFaX9GsOPVvJK4_wTGgnMMDqAw&s",
     category: "laxative",
     price: 200,
     shortDesc: "BISACODYL",
@@ -5698,7 +5698,7 @@ export const newproducts = [
   {
     id: "0440",
     productName: "BLOOD GIVING SET",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG3DSuAzjHvmp_K-ublLYaV0y_RtoRJM14xw&s",
     category: "infusion",
     price: 400,
     shortDesc: "BLOOD GIVING SET",
@@ -5789,7 +5789,7 @@ export const newproducts = [
   {
     id: "0447",
     productName: "BNC MOSQUITO SPRAY 600ML",
-    imgUrl: default_image,
+    imgUrl: "https://www.supermart.ng/cdn/shop/files/sprnw856.jpg?v=1689002417",
     category: "insecticide",
     price: 3000,
     shortDesc: "BNC MOSQUITO SPRAY 600ML",
@@ -6907,7 +6907,7 @@ export const newproducts = [
   {
     id: "0533",
     productName: "CANDID-V6 TAB 100MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLm-TgAo220wnKvtbJfCWBmYJW-8Fc-F6eqw&s",
     category: "pessaries",
     price: 1450,
     shortDesc: "CLOTRIMAZOLE VAGINAL INSERTS",
@@ -6920,7 +6920,7 @@ export const newproducts = [
   {
     id: "0534",
     productName: "CANESTEN 100MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXrRXyb82DJ89sWklDQItqk6Cy3HnbaudsAQ&s",
     category: "pessaries",
     price: 4500,
     shortDesc: "CLOTRIMAZOLE MICRONIZED",
@@ -7037,7 +7037,7 @@ export const newproducts = [
   {
     id: "0543",
     productName: "CARBIROID 5MG TAB",
-    imgUrl: default_image,
+    imgUrl: "https://d3ckuu7lxvlwp2.cloudfront.net/products/s9a9zymchH9snyT6RYyPO9IIt5Kztcnm4Jfki9c0.jpeg",
     category: "antithyroid",
     price: 4050,
     shortDesc: "CARBIMAZOLE",
@@ -7128,7 +7128,7 @@ export const newproducts = [
   {
     id: "0550",
     productName: "CARLO ROSSIN ICE",
-    imgUrl: default_image,
+    imgUrl: "https://i0.wp.com/shoprite.ng/wp-content/uploads/2024/03/Carlo-Rossi-Ice-Mixed-berry.jpg?fit=800%2C800&ssl=1",
     category: "wines",
     price: 9750,
     shortDesc: "CARLO ROSSIN ICE",
@@ -7271,7 +7271,7 @@ export const newproducts = [
   {
     id: "0561",
     productName: "CARZEPIN TAB 200MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrBWiBEop1VDZo-imP9E_AGWma9EuW2BTRCQ&s",
     category: "anticonvulsant",
     price: 900,
     shortDesc: "CARBAMAZEPIN",
@@ -7622,7 +7622,7 @@ export const newproducts = [
   {
     id: "0588",
     productName: "CETIDYN-L",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFTuk-eFqXAr78yondzHCK4IcyE1qwA4rEg&s",
     category: "antihistamine",
     price: 400,
     shortDesc: "LEVOCETIRIZINE",
@@ -7843,7 +7843,7 @@ export const newproducts = [
   {
     id: "0605",
     productName: "CHEXOL TAB *500",
-    imgUrl: default_image,
+    imgUrl: "https://chezresourcespharma.com/wp-content/uploads/2020/07/CHEXOL-1024x768.jpg",
     category: "antidepressant",
     price: 100,
     shortDesc: "TRIHEXYPHENIDYL (BENZHEXOL)",
@@ -8116,7 +8116,7 @@ export const newproducts = [
   {
     id: "0626",
     productName: "CHUPET OMEPRAZOLE INJECTION 40M",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6jYn78McZtIJpOnGJrHMmLEURKtByDe1OZw&s",
     category: "antacid",
     price: 1000,
     shortDesc: "OMEPRAZOLE SODIUM",
@@ -8350,7 +8350,7 @@ export const newproducts = [
   {
     id: "0644",
     productName: "CLAVULIST 228.5",
-    imgUrl: default_image,
+    imgUrl: "https://wallspharm.com/wp-content/uploads/2024/05/IMG_2337-scaled.jpeg",
     category: "syrup",
     price: 2950,
     shortDesc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -8454,7 +8454,7 @@ export const newproducts = [
   {
     id: "0652",
     productName: "CLEXANE 4000IU",
-    imgUrl: default_image,
+    imgUrl: "https://healthplusnigeria.com/cdn/shop/files/clexane-40-mg-0-4-ml-enoxaparin-injection-500x500_aeed2f57-3822-4c2d-8137-bb43a799651e.jpg?v=1747249690",
     category: "anticoagulant",
     price: 24000,
     shortDesc: "CLEXANE 4000IU",
@@ -8597,7 +8597,7 @@ export const newproducts = [
   {
     id: "0663",
     productName: "CLOMID TAB",
-    imgUrl: default_image,
+    imgUrl: "https://onlinedrugcrib.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-09-at-12.28.28-7.jpeg",
     category: "fertility",
     price: 14350,
     shortDesc: "CLOMIPHENE CITRATE",
@@ -8805,7 +8805,7 @@ export const newproducts = [
   {
     id: "0679",
     productName: "CO-CODAMOL TAB 30/500MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCfJp-Ac49--EL3Vp0r9XZXBX-y40MRCn1_A&s",
     category: "analgesic (opioid)",
     price: 2100,
     shortDesc: "CODEINE PHOSPHATE, PARACETAMOL",
@@ -8818,7 +8818,7 @@ export const newproducts = [
   {
     id: "0680",
     productName: "CO-CODAMOL TAB 8MG/500MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvlvb1yU4isDzIh48BpXU2-ICj-T0-xAOhBg&s",
     category: "analgesic (opioid)",
     price: 1700,
     shortDesc: "CO-CODAMOL TAB 8MG/500MG",
@@ -8935,7 +8935,7 @@ export const newproducts = [
   {
     id: "0689",
     productName: "COFLIN PLUS LOZENGES",
-    imgUrl: default_image,
+    imgUrl: "https://www.supermart.ng/cdn/shop/files/spls2317_6e286a18-8eb0-46ef-a222-64aa6faa278c.jpg?v=1712666091",
     category: "lozenges",
     price: 1250,
     shortDesc: "COFLIN PLUS LOZENGES",
@@ -8987,7 +8987,7 @@ export const newproducts = [
   {
     id: "0693",
     productName: "COLCHICINE TAB 1MG (WHO-GMP)",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX86JrwMXZh6Ra5qcED4_EgFsYYQOqqp-gFg&s",
     category: "antigout",
     price: 7700,
     shortDesc: "OPOCALCIUM",
@@ -9013,7 +9013,7 @@ export const newproducts = [
   {
     id: "0695",
     productName: "COLDENT COTTON SWABS *200",
-    imgUrl: default_image,
+    imgUrl: "https://umley.ng/wp-content/uploads/2024/10/image-6-compressed-47.jpg",
     category: "wound dressing",
     price: 900,
     shortDesc: "COLDENT COTTON SWABS *200",
@@ -9546,7 +9546,7 @@ export const newproducts = [
   {
     id: "0736",
     productName: "CONSTISTOP LACTULOSE SOLUTION U",
-    imgUrl: default_image,
+    imgUrl: "https://medecify.com/storages/2024/05/IMG-29-scaled.jpeg",
     category: "anticonstipation",
     price: 3250,
     shortDesc: "CONSTISTOP LACTULOSE SOLUTION USP",
@@ -9559,7 +9559,7 @@ export const newproducts = [
   {
     id: "0737",
     productName: "CONTIFLO OD",
-    imgUrl: default_image,
+    imgUrl: "https://www.amkamed.com/web/image/product.product/914/image_1024/Contiflo%20OD%20(Tamsulosin)%200.4mg?unique=382a7b0",
     category: "antiprostate",
     price: 5050,
     shortDesc: "TAMSULOSIN HYDROCHLORIDE",
@@ -9884,7 +9884,7 @@ export const newproducts = [
   {
     id: "0762",
     productName: "CREPE BANDAGE B/S",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJ7i_547OYxEB2ZD89hYI-3iT33WzTUU6gQ&s",
     category: "wound dressing",
     price: 800,
     shortDesc: "CREPE BANDAGE",
@@ -9897,7 +9897,7 @@ export const newproducts = [
   {
     id: "0763",
     productName: "CREPE BANDAGE M/S",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQraHgUbYVsUcB7vA6soJmuD5zjMX4jji414Q&s",
     category: "wound dressing",
     price: 450,
     shortDesc: "CREPE BANDAGE",
@@ -10209,7 +10209,7 @@ export const newproducts = [
   {
     id: "0787",
     productName: "CYCLOGEST 400MG",
-    imgUrl: default_image,
+    imgUrl: "https://djhqhu4eenhfg.cloudfront.net/medicine_catalogues/avatars/9rBRJunzzvaFY3DImneST0sW4sHFb7iNqZ2mJw8i.jpg",
     category: "fertility",
     price: 40200,
     shortDesc: "PROGESTERONE",
@@ -10222,7 +10222,7 @@ export const newproducts = [
   {
     id: "0788",
     productName: "CYKLATRAN CAPS 500",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQawtW9gVZL5s9WFvg-Xm9GAXym3qqK7yufOQ&s",
     category: "antibleeding",
     price: 6600,
     shortDesc: "TRANEXAMIC ACID",
@@ -10378,7 +10378,7 @@ export const newproducts = [
   {
     id: "0800",
     productName: "CYTOTEC 200 MICROGRAM TAB *60",
-    imgUrl: default_image,
+    imgUrl: "https://www.vinmec.com/static/uploads/20210311_153347_131934_thuoc_cytotec_max_1800x1800_jpg_cd62406308.jpg",
     category: "fertility",
     price: 350,
     shortDesc: "MISOPROSTOL",
@@ -10482,7 +10482,7 @@ export const newproducts = [
   {
     id: "0808",
     productName: "DAKTARIN POWDER",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2XS2UCaGfSscfI0wRTb2BrH_hpfUIpeccYg&s",
     category: "antifungal",
     price: 4200,
     shortDesc: "MICONAZOLE",
@@ -10612,7 +10612,7 @@ export const newproducts = [
   {
     id: "0818",
     productName: "DANACID TAB",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFfWKkcgfpO1XeGfRJKxZ4kG_hlyaMS0PbRA&s",
     category: "antacid",
     price: 200,
     shortDesc: "DANACID TAB",
@@ -11496,7 +11496,7 @@ export const newproducts = [
   {
     id: "0886",
     productName: "DETTOL LIQUID 165ML",
-    imgUrl: default_image,
+    imgUrl: "https://precious-pharmacy.com/cdn/shop/products/Dettol-Liquid-Antiseptic-Disinfectant-tattoo_ucsq-25_165ml.jpg?v=1597150524",
     category: "antiseptics",
     price: 3800,
     shortDesc: "DETTOL LIQUID 165ML",
@@ -11509,7 +11509,7 @@ export const newproducts = [
   {
     id: "0887",
     productName: "DETTOL LIQUID 250ML",
-    imgUrl: default_image,
+    imgUrl: "https://enistoresonline.com/wp-content/uploads/2020/07/1590170260.8870588317726.jpg",
     category: "antiseptics",
     price: 5650,
     shortDesc: "DETTOL LIQUID 250ML",
@@ -11522,7 +11522,7 @@ export const newproducts = [
   {
     id: "0888",
     productName: "DETTOL LIQUID 500ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGd5X4yH0uSTbuPhS3z88dcfHGnMqnnI5HyA&s",
     category: "antiseptics",
     price: 10100,
     shortDesc: "DETTOL LIQUID 500ML",
@@ -11665,7 +11665,7 @@ export const newproducts = [
   {
     id: "0899",
     productName: "DEXTROSE SALINE",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRissfWCZFYd2YQG0Kzyi8nq86cpFWscd3zA&s",
     category: "infusion",
     price: 850,
     shortDesc: "DEXTROSE SALINE",
@@ -11807,8 +11807,8 @@ export const newproducts = [
   },
   {
     id: "0910",
-    productName: "DGF PERMETHRIN CREAM 5%w/w",
-    imgUrl: default_image,
+    productName: "DGF PERMETHRIN CREAM 5%",
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLhDk7s44rDQBMypUWkze7mm3V_oc6KbAocQ&s",
     category: "creams",
     price: 2400,
     shortDesc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -11951,7 +11951,7 @@ export const newproducts = [
   {
     id: "0921",
     productName: "DIASTOP SUSPENSION 100ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kwdTT6t65HWxPMQIPX80RTRGTdbj_Vikng&s",
     category: "antidiarrhoeal",
     price: 500,
     shortDesc: "KAOLIN LIGHT",
@@ -12705,7 +12705,7 @@ export const newproducts = [
   {
     id: "0979",
     productName: "DIVAMINE 25MG *(5 TAB)",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTonUXnexUDQB7p75LXz8rPVbmFpz4CSAuzsQ&s",
     category: "antiemetic",
     price: 100,
     shortDesc: "PROMETHAZINE THEOCLATE",
@@ -12835,7 +12835,7 @@ export const newproducts = [
   {
     id: "0989",
     productName: "DONEPEZIL HCl RANBAXY TAB 5MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQynRXJ8EV33gVpZ5jdLA8cKzirZtSU8cVSQA&s",
     category: "cns drugs",
     price: 4900,
     shortDesc: "DONEPEZIL HYDROCHLORIDE TAB 5MG X28 RANBAXY",
@@ -13628,7 +13628,7 @@ export const newproducts = [
   {
     id: "1050",
     productName: "DR JESSSY EYE CLEAR",
-    imgUrl: default_image,
+    imgUrl: "https://5.imimg.com/data5/SELLER/Default/2023/6/314951522/JH/BB/YP/2053867/new-product-500x500.jpeg",
     category: "eye antioxidants",
     price: 1300,
     shortDesc: "DR JESSY EYE CLEAR WITH LUTEIN AND ZEAXANTHIN",
@@ -14707,7 +14707,7 @@ export const newproducts = [
   {
     id: "1133",
     productName: "DULCOLAX ADULT",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhZYoZ9Uhyg3Pq3G-OxGkpDa3sV6aj3IvEA&s",
     category: "laxative",
     price: 3500,
     shortDesc: "BISACODYL GASTRO RESISTANT",
@@ -14733,7 +14733,7 @@ export const newproducts = [
   {
     id: "1135",
     productName: "DUNHIL DESIRE FOR MEN EDP 100ML",
-    imgUrl: default_image,
+    imgUrl: "https://dscentsation.ng/cdn/shop/products/dunhilldesirered.jpg?v=1601490278",
     category: "aphrodisiacs & sex",
     price: 8200,
     shortDesc: "DUNHIL DESIRE FOR MEN EDP 100ML",
@@ -14785,7 +14785,7 @@ export const newproducts = [
   {
     id: "1139",
     productName: "DURACELL PLUS AA BATTERY",
-    imgUrl: default_image,
+    imgUrl: "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/39/9814722/1.jpg?4232",
     category: "battery",
     price: 5200,
     shortDesc: "DURACELL PLUS AA BATTERY",
@@ -14798,7 +14798,7 @@ export const newproducts = [
   {
     id: "1140",
     productName: "DURACELL PLUS AAA BATTERY",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMfwRHwgLIcfXEg8Lb1iW2iMYj3E3YJvaA-Q&s",
     category: "battery",
     price: 5000,
     shortDesc: "DURACELL PLUS AAA BATTERY",
@@ -14811,7 +14811,7 @@ export const newproducts = [
   {
     id: "1141",
     productName: "DUREX CONDOM",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdROqPELrJt32pQRJG_XbPn7UgQlSA6eavfg&s",
     category: "aphrodisiacs & sex",
     price: 200,
     shortDesc: "DUREX CONDOM",
@@ -14824,7 +14824,7 @@ export const newproducts = [
   {
     id: "1142",
     productName: "DUREX EXTRA SAFE CONDOM",
-    imgUrl: default_image,
+    imgUrl: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/442729/1.jpg?7658",
     category: "aphrodisiacs & sex",
     price: 3500,
     shortDesc: "DUREX EXTRA SAFE CONDOM",
@@ -14902,7 +14902,7 @@ export const newproducts = [
   {
     id: "1148",
     productName: "DYNAMOGEN ORAL SOLUTION 10ML",
-    imgUrl: default_image,
+    imgUrl: "https://f.nooncdn.com/p/pzsku/Z21C4906BADE5FBF6AF00Z/45/_/1714991316/28f00817-051a-48a1-98cb-cc94b5266804.jpg?width=240",
     category: "appetite inducer",
     price: 500,
     shortDesc: "DYNAMOGEN ORAL SOLUTION",
@@ -16371,7 +16371,7 @@ export const newproducts = [
   {
     id: "1261",
     productName: "EPILIM 200",
-    imgUrl: default_image,
+    imgUrl: "https://healthplusnigeria.com/cdn/shop/files/R_a5bc8fb3-ea11-4d59-b28f-2c9d9109fa91.jpg?v=1747249581",
     category: "cns drugs",
     price: 4000,
     shortDesc: "SODIUM VALPROATE",
@@ -16384,7 +16384,7 @@ export const newproducts = [
   {
     id: "1262",
     productName: "EPILIM CHRONO 500",
-    imgUrl: default_image,
+    imgUrl: "https://healthplusnigeria.com/cdn/shop/files/Epilim_20Chrono_20500mg_20x100_20_28Blister_29_b4f255c4-a80b-479b-ad65-e916be65f42a.webp?v=1747249582",
     category: "cns drugs",
     price: 10100,
     shortDesc: "SODIUM VALPROATE",
@@ -17190,7 +17190,7 @@ export const newproducts = [
   {
     id: "1324",
     productName: "EYE MAX FORTE CAP *30",
-    imgUrl: default_image,
+    imgUrl: "https://oneshopsupplements.com/wp-content/uploads/2024/11/8-png.webp",
     category: "eye antioxidants",
     price: 11200,
     shortDesc: "EYE MAX FORTE CAP *30",
@@ -17372,7 +17372,7 @@ export const newproducts = [
   {
     id: "1338",
     productName: "FACE FACTS CERAMIDE HYDRATING",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYpbJi3B5Gp01iXrRfpd5Nlu91D7QFDdYZSw&s",
     category: "creams",
     price: 8500,
     shortDesc: "FACE FACTS CERAMIDE HYDRATING GENTLE CLEANSER",
@@ -17607,7 +17607,7 @@ export const newproducts = [
     id: "1356",
     productName: "FAIR CHILD SOAP",
     imgUrl: default_image,
-    category: "sop",
+    category: "soap",
     price: 1300,
     shortDesc: "FAIR CHILD SOAP",
     description: "FAIR CHILD SOAP",
@@ -18230,7 +18230,7 @@ export const newproducts = [
   {
     id: "1404",
     productName: "FIDSON CEFUROXIME 125mg/ml",
-    imgUrl: default_image,
+    imgUrl: "https://www.amkamed.com/web/image/product.template/713/image_1024?unique=ef51dd9",
     category: "syrup",
     price: 3750,
     shortDesc: "FIDSON CEFUROXIME 125mg/ml   70ml",
@@ -18386,7 +18386,7 @@ export const newproducts = [
   {
     id: "1416",
     productName: "FINE TEST MACHINE",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWkq8YQ-blP0o492mArpUVTA-ygtpHNKaorA&s",
     category: "medical device",
     price: 25000,
     shortDesc: "FINE TEST MACHINE",
@@ -18412,7 +18412,7 @@ export const newproducts = [
   {
     id: "1418",
     productName: "FINSTRATE TAB X28",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJ7CNRvpeRLd5oHNeMlLmnNHXD5TnvGauUA&s",
     category: "antiprostate",
     price: 3950,
     shortDesc: "FINASTERIDE",
@@ -18633,7 +18633,7 @@ export const newproducts = [
   {
     id: "1435",
     productName: "FLOWEL - PLUS",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XLFKH-BvXtaz8iLV8zeDB7FOCHdYrL61Wg&s",
     category: "antiprostate",
     price: 3500,
     shortDesc: "TAMSULOSIN & DUTASTERIDE",
@@ -19530,7 +19530,7 @@ export const newproducts = [
   {
     id: "1504",
     productName: "FYBOGEL ORANGE SACHET",
-    imgUrl: default_image,
+    imgUrl: "https://medvacc.com/wp-content/uploads/2021/03/Fybogel_Orange_Sachet_Drinks__60_Sachets_30__53762.1582136841-550x550-1.png",
     category: "diet",
     price: 350,
     shortDesc: "FYBOGEL",
@@ -19699,7 +19699,7 @@ export const newproducts = [
   {
     id: "1517",
     productName: "GALWAYS ADM 60ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ikiYH07nRqskKQOYrGEzUi47yo3QqDn8sQ&s",
     category: "antidiarrhoeal",
     price: 800,
     shortDesc: "GALWAYS ADM",
@@ -20440,7 +20440,7 @@ export const newproducts = [
   {
     id: "1574",
     productName: "GLYCERIN SUPPOSITORIES ADULT",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoPDeXb8tysQhqpQPvbMTBtqoixr2gRvYF0g&s",
     category: "diet",
     price: 400,
     shortDesc: "GLYCEROL",
@@ -21857,7 +21857,7 @@ export const newproducts = [
   {
     id: "1683",
     productName: "HIV SELF-TEST KIT",
-    imgUrl: default_image,
+    imgUrl: "https://media.istockphoto.com/id/1272279338/vector/express-hiv-self-test-kit-illustration-with-laboratory-tube-with-blood-different-types-of.jpg?s=612x612&w=0&k=20&c=Qr3aT9c61tNALMW5avA778lkS5Jg6-0UBuykGnmrOxs=",
     category: "medical diagnostics",
     price: 2550,
     shortDesc: "HIV SELF-TEST KIT",
@@ -22391,7 +22391,7 @@ export const newproducts = [
     id: "1724",
     productName: "IMODIUM CAP X6",
     imgUrl: default_image,
-    category: "antidiarrhoel",
+    category: "Antidiarrhoeal",
     price: 4050,
     shortDesc: "LOPERAMIDE HYDROCHLORIDE",
     description: "LOPERAMIDE HYDROCHLORIDE",
@@ -22417,7 +22417,7 @@ export const newproducts = [
     id: "1726",
     productName: "IMORDIUM CAP",
     imgUrl: default_image,
-    category: "antidiarrhoel",
+    category: "Antidiarrhoeal",
     price: 800,
     shortDesc: "LOPERAMIDE HYDROCHLORIDE",
     description: "LOPERAMIDE HYDROCHLORIDE",
@@ -24028,7 +24028,7 @@ export const newproducts = [
   {
     id: "1850",
     productName: "KETORAL CREAM",
-    imgUrl: default_image,
+    imgUrl: "https://www.supermart.ng/cdn/shop/files/spls2633_f646e6aa-8f99-407a-b227-7c2ca2acc8e5.jpg?v=1712665829",
     category: "creams",
     price: 1000,
     shortDesc: "KETOCONAZOLE CREAM 2%",
@@ -24184,7 +24184,7 @@ export const newproducts = [
   {
     id: "1862",
     productName: "KISS LUBE GEL 75ML",
-    imgUrl: default_image,
+    imgUrl: "https://vigeo.com.ng/wp-content/uploads/2024/11/KISS-LUBE-GEL.jpeg",
     category: "medical diagnostics",
     price: 3000,
     shortDesc: "KISS LUBE GEL 75ML",
@@ -24717,7 +24717,7 @@ export const newproducts = [
   {
     id: "1903",
     productName: "LABOSAN POWDER",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuJt0qhx2I_uG4_HYRAJGuCGVWeLZRaP5QaQ&s",
     category: "diet",
     price: 150,
     shortDesc: "SORBITOL",
@@ -25094,7 +25094,7 @@ export const newproducts = [
   {
     id: "1932",
     productName: "LEMONVATE GEL 30G",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvESmrT4I9EKlphrUA6ie7nmB4huM44qh7Q&s",
     category: "anti-inflammatory steroid",
     price: 500,
     shortDesc: "CLOBETASOL PROPIONATE",
@@ -25458,7 +25458,7 @@ export const newproducts = [
   {
     id: "1960",
     productName: "LIPSORE CREAM 2G",
-    imgUrl: default_image,
+    imgUrl: "https://m.media-amazon.com/images/I/41StrpF4y6L.jpg",
     category: "antiviral",
     price: 1500,
     shortDesc: "ACICLOVIR",
@@ -25952,7 +25952,7 @@ export const newproducts = [
   {
     id: "1998",
     productName: "LORENAC SUPPOSITORIES 100MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROYx4Cb3wOKIy4cQBZhkl0VMgFw06TdQvwkg&s",
     category: "suppositories",
     price: 450,
     shortDesc: "DECLOFENAC SODIUM",
@@ -25965,7 +25965,7 @@ export const newproducts = [
   {
     id: "1999",
     productName: "LORENAC SUPPOSITORIES 12.5MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEmId7RyZRQpN1EQV7eAZWvM_LBeot2yKSfw&s",
     category: "suppositories",
     price: 450,
     shortDesc: "DECLOFENAC SODIUM",
@@ -26511,7 +26511,7 @@ export const newproducts = [
   {
     id: "2041",
     productName: "MALARIA KIT",
-    imgUrl: default_image,
+    imgUrl: "https://neatstore.ng/wp-content/uploads/2023/02/sd-biosensor-malaria-test-kit.png",
     category: "medical diagnostics",
     price: 500,
     shortDesc: "MALARIA AG DETECTION TEST",
@@ -27512,7 +27512,7 @@ export const newproducts = [
   {
     id: "2118",
     productName: "MEDERAX TAB 10MG",
-    imgUrl: default_image,
+    imgUrl: "https://cedarcarepharm.com/wp-content/uploads/2023/02/Mederax-10mg.jpg",
     category: "antiemetic",
     price: 150,
     shortDesc: "METOCLOPRAMIDE HYDROCHLORIDE",
@@ -28266,7 +28266,7 @@ export const newproducts = [
   {
     id: "2176",
     productName: "METAZINE SYRUP",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlnmatIPWtIOyI94xYBeH4j4QHjZ74YTdpQ&s",
     category: "antiemetic",
     price: 400,
     shortDesc: "PROMETHAZINE SYRUP",
@@ -28773,7 +28773,7 @@ export const newproducts = [
   {
     id: "2215",
     productName: "MOIST LUBRICANT",
-    imgUrl: default_image,
+    imgUrl: "https://myspnigeria.com/wp-content/uploads/2020/12/mysp-moist-lube-scaled.jpg",
     category: "lubricant",
     price: 5950,
     shortDesc: "MOIST LUBRICANT",
@@ -29033,7 +29033,7 @@ export const newproducts = [
   {
     id: "2235",
     productName: "MONTRAL TAB 10MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM36frMvDcP8PomLyXAXwpTm7hurGR5ZMGCw&s",
     category: "antiarthritic",
     price: 3100,
     shortDesc: "MONTELUKAST",
@@ -29163,7 +29163,7 @@ export const newproducts = [
   {
     id: "2245",
     productName: "MOTECH WRIST SUPPORT",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnV1UrdCp6vdYSxTo5aO3hE1gpo6eMG443w&s",
     category: "medical support",
     price: 10000,
     shortDesc: "MOTECH WRIST SUPPORT",
@@ -30177,7 +30177,7 @@ export const newproducts = [
   {
     id: "2323",
     productName: "NAZA CIMETIDINE 400MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJ5CdjyTgh3OMpmxCgC-CDP15cslq7mgteA&s",
     category: "prescription drug",
     price: 650,
     shortDesc: "NAZA CIMETIDINE TABLET 400MG",
@@ -30190,7 +30190,7 @@ export const newproducts = [
   {
     id: "2324",
     productName: "NAZA CIMETIDINE TAB 200MG",
-    imgUrl: default_image,
+    imgUrl: "https://allschoolabs.com/wp-content/uploads/2024/04/NAZA20CIMETIDINE20200MG20X2020TABS.jpg",
     category: "ulcer",
     price: 650,
     shortDesc: "NAZA CIMETIDINE TAB 200MG",
@@ -30685,7 +30685,7 @@ export const newproducts = [
     id: "2362",
     productName: "NESTLE MILO 20G",
     imgUrl: default_image,
-    category: "beverage",
+    category: "beverages",
     price: 200,
     shortDesc: "NESTLE MILO 20G",
     description: "NESTLE MILO 20G",
@@ -32075,7 +32075,7 @@ export const newproducts = [
   {
     id: "2469",
     productName: "NORADIP EXTRA (ORS)",
-    imgUrl: default_image,
+    imgUrl: "https://5.imimg.com/data5/SELLER/Default/2023/3/291997016/TR/RW/AZ/4262042/prolyte-ors-sachet.jpeg",
     category: "antidiarrhoeal",
     price: 200,
     shortDesc: "NORADIP EXTRA (ORS)",
@@ -33141,7 +33141,7 @@ export const newproducts = [
   {
     id: "2551",
     productName: "OMEFAST PLUS",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyivULA4q0i8ITMzPFJ5pQV7zxnSsO7VRhsw&s",
     category: "anti-ulcer",
     price: 8750,
     shortDesc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -33284,7 +33284,7 @@ export const newproducts = [
   {
     id: "2562",
     productName: "OMEPRAZOLE CAPS 20MG PK",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn0iCSuZcWwCobMqpnpLLK8M0F64iofU2hQw&s",
     category: "ulcer",
     price: 500,
     shortDesc: "OMEPRAZOLE CAPS 20MG PK",
@@ -33960,7 +33960,7 @@ export const newproducts = [
   {
     id: "2614",
     productName: "ORIJIN BITTERS 750ML",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9WFSFgSeT0rk9rS7hmtIMCZZ215g3evDbg&s",
     category: "wines",
     price: 4200,
     shortDesc: "ORIJIN BITTERS 750ML",
@@ -34012,7 +34012,7 @@ export const newproducts = [
   {
     id: "2618",
     productName: "ORTHOGUIDE KNEE WRAP WITH HINGE",
-    imgUrl: default_image,
+    imgUrl: "https://orthoactive.com/wp-content/uploads/2018/05/3132W-3.jpg",
     category: "support",
     price: 7000,
     shortDesc: "NEOPRENE REF D-13",
@@ -34077,7 +34077,7 @@ export const newproducts = [
   {
     id: "2623",
     productName: "OTRIVIN ADULT (EGYPT)",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_IBCyIt8vDA7HtUIRh92H-eb4END16BLZw&s",
     category: "nasal drop",
     price: 3100,
     shortDesc: "OTRIVIN ADULT (EGYPT)",
@@ -34090,7 +34090,7 @@ export const newproducts = [
   {
     id: "2624",
     productName: "OTRIVIN CHILD (EGYPT)",
-    imgUrl: default_image,
+    imgUrl: "https://www.bloompharmacy.com/cdn/shop/products/otrivin-children-nasal-drops-15-ml-916122.jpg?v=1687731312",
     category: "nasal drop",
     price: 3000,
     shortDesc: "OTRIVIN CHILD (EGYPT)",
@@ -34779,7 +34779,7 @@ export const newproducts = [
   {
     id: "2679",
     productName: "PANASONIC XTREME POWER AAA",
-    imgUrl: default_image,
+    imgUrl: "https://m.media-amazon.com/images/I/61Nj9HeXF5L._AC_UF1000,1000_QL80_.jpg",
     category: "battery",
     price: 1600,
     shortDesc: "PANASONIC XTREME POWER AAA",
@@ -35364,7 +35364,7 @@ export const newproducts = [
   {
     id: "2724",
     productName: "PERILON 5MG",
-    imgUrl: default_image,
+    imgUrl: "https://d3ckuu7lxvlwp2.cloudfront.net/products/DJc8oP0pHyJAC3MexkVXnWULkLH99QSIgvJN1WR2.jpeg",
     category: "anti-inflammatory steroid",
     price: 600,
     shortDesc: "PREDNISOLONE",
@@ -36794,7 +36794,7 @@ export const newproducts = [
   {
     id: "2834",
     productName: "PREXAM CAP",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoSj10BBjB9oeeODbOiZWaeV2D7TWYaTAWg&s",
     category: "antibleeding",
     price: 7100,
     shortDesc: "TRANEXAMIC ACID",
@@ -37444,7 +37444,7 @@ export const newproducts = [
   {
     id: "2884",
     productName: "PYRANTRIN SUSPENSION",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiCmTry01-X-Y958wYYgq0ltwyNT3vmnoXcQ&s",
     category: "worm expeller",
     price: 1800,
     shortDesc: "PYRANTEL PAMOATE",
@@ -37457,7 +37457,7 @@ export const newproducts = [
   {
     id: "2885",
     productName: "PYRANTRIN TAB",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1QY7XFU0WovJb5JxDhZkrwBkmFrmOUZDwvg&s",
     category: "worm expeller",
     price: 1000,
     shortDesc: "PYRANTEL PAMOATE",
@@ -37717,7 +37717,7 @@ export const newproducts = [
   {
     id: "2905",
     productName: "RANBAXY ACICLOVIR 200MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy8JB1-jCHT5ktx5Mx5pIoZpA7Hk_zONzgPw&s",
     category: "antiviral",
     price: 4200,
     shortDesc: "ACICLOVIR",
@@ -37730,7 +37730,7 @@ export const newproducts = [
   {
     id: "2906",
     productName: "RANBAXY ACICLOVIR 400MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYSCcX6iiazYpUK51069_cv8hzyvE-jGjpA&s",
     category: "antiviral",
     price: 2000,
     shortDesc: "ACICLOVIR",
@@ -38393,7 +38393,7 @@ export const newproducts = [
   {
     id: "2957",
     productName: "RENATA BATTERY",
-    imgUrl: default_image,
+    imgUrl: "https://www-konga-com-res.cloudinary.com/f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/K/V/75381_1662731844.jpg",
     category: "medical device",
     price: 2100,
     shortDesc: "RENATA BATTERY",
@@ -38549,7 +38549,7 @@ export const newproducts = [
   {
     id: "2969",
     productName: "RETRAX TAB 40MG *3",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ3OABWGmNkxgmVaSU47cF-g8oh0pI6PX9TA&s",
     category: "worm expeller",
     price: 400,
     shortDesc: "LEVAMISOLE",
@@ -38601,7 +38601,7 @@ export const newproducts = [
   {
     id: "2973",
     productName: "REXAL PARACETAMOL SUPP 250MG",
-    imgUrl: default_image,
+    imgUrl: "https://allschoolabs.com/wp-content/uploads/2024/04/REXALL20PARACETAMOL20SUPP20250MG20X2010.jpg",
     category: "suppositories",
     price: 100,
     shortDesc: "REXAL PARACETAMOL SUPP 250MG",
@@ -39745,7 +39745,7 @@ export const newproducts = [
   {
     id: "3061",
     productName: "SAMVINE ANKLE SUPPORT",
-    imgUrl: default_image,
+    imgUrl: "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/46/9497161/1.jpg?0469",
     category: "medical support",
     price: 6300,
     shortDesc: "SAMVINE ANKLE SUPPORT",
@@ -39758,7 +39758,7 @@ export const newproducts = [
   {
     id: "3062",
     productName: "SAMVINE ARMSLING POUCH",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttvzlp5eIVO22hm9hykM-jVfFTZn0Fbs8VQ&s",
     category: "medical support",
     price: 15000,
     shortDesc: "SAMVINE ARMSLING POUCH",
@@ -41448,7 +41448,7 @@ export const newproducts = [
   {
     id: "3192",
     productName: "SOREPILLS LOZENGES*200",
-    imgUrl: default_image,
+    imgUrl: "https://assetpharmacy.com/wp-content/uploads/2022/08/Sorepils-Lozenges-Sore-throat-Cough-Lozenges.jpg",
     category: "lozenges",
     price: 100,
     shortDesc: "SOREPILLS LOZENGES*200",
@@ -42163,7 +42163,7 @@ export const newproducts = [
   {
     id: "3247",
     productName: "STEMETIL 5MG",
-    imgUrl: default_image,
+    imgUrl: "https://247pharmacy.net/Uploads/R5260M2349.jpg",
     category: "anti-schizophrenic",
     price: 150,
     shortDesc: "PROCHLOPERAZINE",
@@ -42228,7 +42228,7 @@ export const newproducts = [
   {
     id: "3252",
     productName: "STOMPROZOL TAB 200MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSe9OEt7ukSdqbI9lXnfwCwcgApOOq3_zXRw&s",
     category: "ulcer",
     price: 500,
     shortDesc: "CIMETIDINE",
@@ -42410,7 +42410,7 @@ export const newproducts = [
   {
     id: "3266",
     productName: "STUGERON 25MG TAB",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrOjnaHZqDcO1F6JKWqxWVtqMXnFhQeyQWw&s",
     category: "anti-vertigo",
     price: 500,
     shortDesc: "CINNARIZINE",
@@ -42996,7 +42996,7 @@ export const newproducts = [
     id: "3311",
     productName: "SUPRASYL COUGH SYRUP",
     imgUrl: default_image,
-    category: "cough, cold & flu",
+    category: "cough, cold  & flu",
     price: 2800,
     shortDesc: "SUPRASYL COUGH SYRUP",
     description: "SUPRASYL COUGH SYRUP",
@@ -43112,7 +43112,7 @@ export const newproducts = [
   {
     id: "3320",
     productName: "SWICLONE 7.5MG *14",
-    imgUrl: default_image,
+    imgUrl: "https://www.ikonlinestore.com/wp-content/uploads/2023/07/swiclone__1_-removebg-preview.png",
     category: "sleep inducer",
     price: 3500,
     shortDesc: "ZOPICLONE",
@@ -43138,7 +43138,7 @@ export const newproducts = [
   {
     id: "3322",
     productName: "SWIDON 5MG *30",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDA0wyFBQH7OIC3IHrdBtCn7NpORmLDfBo5w&s",
     category: "sleep inducer",
     price: 150,
     shortDesc: "NITRAZEPAM",
@@ -43242,7 +43242,7 @@ export const newproducts = [
   {
     id: "3330",
     productName: "TALEN 1.5MG *30",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAAiTIrNMmLvkeViHxi-O6EekiItCKJeawYw&s",
     category: "prescription drug",
     price: 100,
     shortDesc: "BROMAZEPAM",
@@ -43255,7 +43255,7 @@ export const newproducts = [
   {
     id: "3331",
     productName: "TALEN 3MG *30",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0qJOJ4Qb7-5P04z1t2D2IDn34JdpOUTppAQ&s",
     category: "prescription drug",
     price: 150,
     shortDesc: "BROMAZEPAM",
@@ -45010,7 +45010,7 @@ export const newproducts = [
   {
     id: "3466",
     productName: "ULCERTRET-20 TAB",
-    imgUrl: default_image,
+    imgUrl: "https://d3ckuu7lxvlwp2.cloudfront.net/products/210486674663aeacd63b020product.webp",
     category: "ulcer",
     price: 1500,
     shortDesc: "ULCERTRET-20 TAB",
@@ -46388,7 +46388,7 @@ export const newproducts = [
   {
     id: "3572",
     productName: "VISPRID CAPS 20MG",
-    imgUrl: default_image,
+    imgUrl: "https://admin.generaldrugcentre.com/images/product/10268.PNG",
     category: "ulcer",
     price: 1200,
     shortDesc: "RABEPRAZOLE",
@@ -46817,7 +46817,7 @@ export const newproducts = [
   {
     id: "3605",
     productName: "VOLTAREN SUPPOSITORY 50MG",
-    imgUrl: default_image,
+    imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDBwBcUpdaiQf0hO15zy9neOyxClyGlpkTdg&s",
     category: "suppositories",
     price: 650,
     shortDesc: "VOLTAREN 50 DICLOFENAC",
@@ -47922,7 +47922,7 @@ export const newproducts = [
   {
     id: "3690",
     productName: "XARELTO X28 TAB",
-    imgUrl: default_image,
+    imgUrl: "https://medecify.com/storages/2025/04/Xarelto-mg-1.jpeg",
     category: "anticoagulant",
     price: 15500,
     shortDesc: "RIVAROXABAN",

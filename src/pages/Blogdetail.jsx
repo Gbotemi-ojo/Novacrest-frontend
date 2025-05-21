@@ -11,7 +11,7 @@ export default function BlogDetail() {
 
   useEffect(() => {
     setLoading(true);
-    fetch(`http://localhost:5000/blogs/${id}`, {
+    fetch(`https://novacrest-backend.vercel.app/blogs/${id}`, {
       headers: {
         'Authorization': 'Bearer ' + localStorage.getItem('token'),
         'Content-Type':  'application/json'
